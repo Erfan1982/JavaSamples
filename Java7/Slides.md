@@ -8,6 +8,6 @@
 
 [Junit main-klass för att köra flera klasser med enhetstester](https://www.tutorialspoint.com/junit/junit_suite_test.htm#:~:text=Test%20suite%20is%20used%20to,run%20together%20using%20Test%20Suite.)
 
-
+[@Test annotation med expected parameter för Exception](https://www.baeldung.com/junit-assert-exception)
 
 
